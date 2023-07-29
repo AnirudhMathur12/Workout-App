@@ -1,0 +1,11 @@
+{
+  "name": "workout-app",
+  "version": "1.0.0",
+  "description": "Make a workout app that actually works",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anirudh Mathur",
+  "license": "ISC"
+}
